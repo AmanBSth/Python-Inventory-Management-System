@@ -1,0 +1,6 @@
+Tuf,HP,223,$2000,i7 7th Gen
+Omen,Dell,247,$1976,i5 9th Gen
+Pav 13,HP,0,$1978,i5 9th Gen
+Swift,Acer,685,$1100,i5 9th Gen
+Nitro,Acer,250,$3500,i5 9th Gen
+Xps,Dell,196,$1000,i9 11th Gen
