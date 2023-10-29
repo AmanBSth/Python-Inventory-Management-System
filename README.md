@@ -1,5 +1,5 @@
 # Python-Inventory-Management-System
-## About the program:
+## About the program
 The program is a based on a management of a laptop shop that simplifies the process
 of managing and keeping track of laptop inventory, sales, and purchase orders. The
 overall working of the program is divided into 4 modules i.e. Main.py, Operation.py, 
